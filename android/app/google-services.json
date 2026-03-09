@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606744724815",
+    "project_id": "makeeatdev",
+    "storage_bucket": "makeeatdev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606744724815:android:fb3818ba3c9454b5f1b13a",
+        "android_client_info": {
+          "package_name": "om.example.makeeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7yh8LaC37PU-yLDs03H6Cujk2GAxBQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
